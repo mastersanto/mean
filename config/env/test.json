@@ -1,5 +1,5 @@
 {
-    "db": "mongodb://localhost/mean-test",
+    "db": "mongodb://heroku:milOjos2013@paulo.mongohq.com:10047/app19218678",
     "port": 3001,
     "app": {
         "name": "MEAN - A Modern Stack - Test"
