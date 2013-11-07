@@ -1,5 +1,5 @@
 {
-    "db": "mongodb://localhost/mean-dev",
+    "db": "mongodb://heroku:milOjos2013@paulo.mongohq.com:10047/app19218678",
     "app": {
         "name": "milOjos - Development"
     },
