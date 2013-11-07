@@ -1,5 +1,5 @@
 {
-    "db": "mongodb://heroku:milOjos2013@paulo.mongohq.com:10047/app19218678",
+    "db": "mongodb://localhost/mean-dev",
     "app": {
         "name": "milOjos - Development"
     },
@@ -7,16 +7,6 @@
         "clientID": "584115474959611",
         "clientSecret": "6053c775da42d6051a243e15882fd091",
         "callbackURL": "http://immense-stream-6882.herokuapp.com/auth/facebook/callback"
-    },
-    "twitter": {
-        "clientID": "CONSUMER_KEY",
-        "clientSecret": "CONSUMER_SECRET",
-        "callbackURL": "http://localhost:3000/auth/twitter/callback"
-    },
-    "github": {
-        "clientID": "APP_ID",
-        "clientSecret": "APP_SECRET",
-        "callbackURL": "http://localhost:3000/auth/github/callback"
     },
     "google": {
         "clientID": "APP_ID",

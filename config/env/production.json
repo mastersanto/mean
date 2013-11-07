@@ -1,22 +1,12 @@
 {
     "db": "mongodb://heroku:milOjos2013@paulo.mongohq.com:10047/app19218678",
     "app": {
-        "name": "milOjos - Production"
+        "name": "milOjos - Community Network - Production"
     },
     "facebook": {
         "clientID": "APP_ID",
         "clientSecret": "APP_SECRET",
         "callbackURL": "http://localhost:3000/auth/facebook/callback"
-    },
-    "twitter": {
-        "clientID": "CONSUMER_KEY",
-        "clientSecret": "CONSUMER_SECRET",
-        "callbackURL": "http://localhost:3000/auth/twitter/callback"
-    },
-    "github": {
-        "clientID": "APP_ID",
-        "clientSecret": "APP_SECRET",
-        "callbackURL": "http://localhost:3000/auth/github/callback"
     },
     "google": {
         "clientID": "APP_ID",

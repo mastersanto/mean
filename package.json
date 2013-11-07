@@ -3,10 +3,10 @@
     "description": "MEAN - A Modern Stack: MongoDB, ExpressJS, AngularJS, NodeJS. (BONUS: Passport User Support).",
     "version": "0.1.0",
     "private": false,
-    "author": "Amos Haviv",
+    "author": "Mastersanto - Amos Haviv",
     "repository": {
         "type": "git",
-        "url": "https://github.com/linnovate/mean.git"
+        "url": "https://github.com/mastersanto/mean.git"
     },
     "engines": {
         "node": "0.10.x",
@@ -27,8 +27,6 @@
         "passport": "latest",
         "passport-local": "latest",
         "passport-facebook": "latest",
-        "passport-twitter": "latest",
-        "passport-github": "latest",
         "passport-google-oauth": "latest",
         "underscore": "latest",
         "async": "latest",
